@@ -1,5 +1,6 @@
-**Chat App**
+# Chat App
 
-`Based on NodeJs and Sockets.io`
+##`Based on NodeJs and Sockets.io`
 
--npm install
+## To Run:
+###npm install
